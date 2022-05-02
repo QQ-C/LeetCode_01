@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/InputOutput/InputOutput.iml" filepath="$PROJECT_DIR$/InputOutput/InputOutput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module01/Module01.iml" filepath="$PROJECT_DIR$/Module01/Module01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tencent/Tencent.iml" filepath="$PROJECT_DIR$/Tencent/Tencent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aTemplate/aTemplate.iml" filepath="$PROJECT_DIR$/aTemplate/aTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/again/again.iml" filepath="$PROJECT_DIR$/again/again.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jianzhiOffer/jianzhiOffer.iml" filepath="$PROJECT_DIR$/jianzhiOffer/jianzhiOffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meituan/meituan.iml" filepath="$PROJECT_DIR$/meituan/meituan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/talent/talent.iml" filepath="$PROJECT_DIR$/talent/talent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test11.iml" filepath="$PROJECT_DIR$/test11.iml" />
+    </modules>
+  </component>
+</project>
